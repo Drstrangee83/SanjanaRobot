@@ -1,16 +1,16 @@
 # Config files, logs and stuff
-MukeshRobot/modules/helper_funcs/temp.txt
-MukeshRobot/elevated_users.json
-MukeshRobot/config.py
-MukeshRobot/config.ini
+SANJANAXRobot/modules/helper_funcs/temp.txt
+SANJANAXRobot/elevated_users.json
+SANJANAXRobot/config.py
+SANJANAXRobot/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-MukeshRobot/*.session
-MukeshRobot/*.session-journal
-Mukesh.session-journal
+SANJANAXRobot/*.session
+SANJANAXRobot/*.session-journal
+SANJANA.session-journal
 *.session
 
 # Byte-compiled / optimized / DLL files
